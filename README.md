@@ -33,8 +33,9 @@ Abre http://localhost:3000 en tu navegador para ver la aplicación.
 Uso
 Navega a través de las diferentes secciones de la aplicación para buscar y visualizar información sobre restaurantes, museos, hoteles y otros puntos de interés.
 
-![image](https://github.com/user-attachments/assets/f417e1bd-91ac-431d-82bc-8f28d26e4937)
 
 
+
+![Sin título](https://github.com/user-attachments/assets/cdff11e5-66bf-4677-a3b9-e0babe7cadfd)
 
 
